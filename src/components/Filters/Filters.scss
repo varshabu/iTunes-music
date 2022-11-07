@@ -1,0 +1,33 @@
+.filters {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 121, 121, 0.8281906512605042) 48%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  gap: 1rem;
+}
+
+.filters > span {
+  padding-bottom: 20px;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.filters input {
+  padding: 0.5rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .filters {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
+  }
+}
