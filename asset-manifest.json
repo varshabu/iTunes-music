@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itunes-music/static/css/main.dbe16af4.css",
+    "main.js": "/itunes-music/static/js/main.9197edc5.js",
+    "index.html": "/itunes-music/index.html",
+    "main.dbe16af4.css.map": "/itunes-music/static/css/main.dbe16af4.css.map",
+    "main.9197edc5.js.map": "/itunes-music/static/js/main.9197edc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbe16af4.css",
+    "static/js/main.9197edc5.js"
+  ]
+}
